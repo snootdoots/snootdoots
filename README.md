@@ -1,10 +1,10 @@
 # 👋 Hi, I’m David Ren
-I’m a data science student at the University of Michigan interested in a career in machine learning and data analytics, looking for an internship for Summer 2025. Check out my website at https://snootdoots.github.io/ !
+I’m a data science student at the University of Michigan interested in a career in machine learning and data analytics, looking for a full-time position after I graduate in Summer 2026. Check out my website at https://snootdoots.github.io/ !
 
 ## About
-📚 I'm currently learning Data Structures and Algorithms, Linear Algebra, Probability, and Ethics of AI.
+📚 I'm currently taking Database Systems, Computer Organization, Cybersecurity, and Financial Math.
 
-🔭 I'm currently working on course projects (through EECS 281), leetcode problems, and personal projects.
+🔭 I'm currently working on course projects and also learning more machine learning techniques (learned what a GAN was recently!) 
 
 📫 How to reach me: 
 - Email: davidren@umich.edu
