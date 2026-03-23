@@ -2,7 +2,7 @@
 I’m a data science student at the University of Michigan interested in a career in machine learning and data analytics, looking for a full-time position after I graduate in Summer 2026. Check out my website at https://snootdoots.github.io/ !
 
 ## About
-📚 I'm currently taking Database Systems, Computer Organization, Cybersecurity, and Financial Math.
+📚 I'm currently taking Information Retrieval, Computational Linguistics, Engineering Ethics, Technical Communication, and Contagion Dynamics.
 
 🔭 I'm currently working on course projects and also learning more machine learning techniques (learned what a GAN was recently!) 
 
